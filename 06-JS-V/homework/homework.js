@@ -75,17 +75,7 @@ function agregarStringInvertida() {
       console.log ("Edad: " + this.edad) 
       console.log ("Domicilio: " + this.domicilio)     
       }
-    }
-/*     detalle(){
-      return console.log ("Nombre: " + this.nombre,
-             "Apellido: " + this.apellido,
-             "Edad: " + this.edad,
-             "Domicilio: " + this.domicilio) */
-/*       console.log ("Nombre: " + this.nombre,) 
-      console.log ("Apellido: " +this.apellido) 
-      console.log ("Edad: " + this.edad) 
-      console.log ("Domicilio: " + this.domicilio)      */
-    
+    } 
 }
 
 function crearInstanciaPersona(nombre, apellido, edad, dir) {
